@@ -1,2 +1,2 @@
 # Secrets
-This allow peple to express their ideas and thoughts anonymously
+This allow people to express their ideas and thoughts anonymously
